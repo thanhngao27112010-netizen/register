@@ -4,8 +4,6 @@
         "email": "thanhngao27112010@gmail.com"
     },
     "records": {
-        "CNAME": "cname.vercel-dns.com",
-        "TXT": ["vc-domain-verify=nguyenvuminhthanh.is-a.dev,5d9716c1c88494eb701e8"]
+        "CNAME": "cname.vercel-dns.com"
     }
 }
-

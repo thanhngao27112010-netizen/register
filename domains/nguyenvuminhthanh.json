@@ -1,17 +1,17 @@
 {
-    "owner": {
-        "username": "thanhngao27112010-netizen",
-        "email": "thanhngao27112010@gmail.com"
-    },
-    "records": {
-        "CNAME": "://vercel-dns.com"
-    },
-    "subrecords": {
-        "@": {
-            "TXT": "vc-domain-verify=nguyenvuminhthanh.is-a.dev,5d97161c88494eb701e8"
-        },
-        "_discord": {
-            "TXT": "dh=7959891f16a44d7830e2cc0351e0d0982943cb64"
-        }
+  "owner": {
+    "username": "thanhngao27112010-netizen",
+    "email": "thanhngao27112010@gmail.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": ["vc-domain-verify=nguyenvuminhthanh.is-a.dev,5d97161c88494eb701e8"]
+  },
+  "subrecords": {
+    "_discord": {
+      "records": {
+        "TXT": ["dh=7959891f16a44d7830e2cc0351e0d0982943cb64"]
+      }
     }
+  }
 }
